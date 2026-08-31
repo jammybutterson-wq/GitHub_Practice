@@ -4,3 +4,4 @@ Know what you want to do with the ball before recieving
 EDIT, STAGE, COMMIT, PUSH
 git
 TESTING STAGING
+approach the ball with a 90 degree stance
