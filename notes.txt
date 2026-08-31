@@ -1,2 +1,3 @@
 Learning Git
 Git tracks changes
+Know what you want to do with the ball before recieving
