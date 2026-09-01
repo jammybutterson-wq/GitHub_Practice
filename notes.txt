@@ -1,5 +1,5 @@
 Learning Git
-Git tracks changes
+Git tracks Big changes
 Know what you want to do with the ball before recieving
 EDIT, STAGE, COMMIT, PUSH
 git
